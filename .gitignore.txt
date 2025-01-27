@@ -1,0 +1,33 @@
+# Ignore Visual Studio temporary files, build results, and
+# common workspace or project settings
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Rider and IntelliJ IDEA IDE files
+.idea/
+*.iml
+
+# Windows specific files
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Visual Studio Code files
+.vscode/
+
+# Resharper files
+_ReSharper*/
+*.DotSettings.user
+
+# NuGet Packages
+packages/
+*.nupkg
